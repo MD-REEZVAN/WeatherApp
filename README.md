@@ -1,1 +1,1 @@
-its my practice app where i create a weather tracking android app
+It's my practice app where I create a weather tracking android app
